@@ -9,6 +9,6 @@ Código realizado em python 3.6.3, em SO MACOS
 
 # Bibiotecas internas utilizadas
 
-datetime - realiza a coleta dos dados em string e depois transformam em padrão time
+datetime - realiza a coleta dos dados em string e depois transformam em padrão time\n
 re - Biblioteca que auxilia na procura de string correta, principalmente no formato
  do log
